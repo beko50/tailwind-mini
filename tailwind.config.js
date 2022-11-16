@@ -12,7 +12,7 @@ module.exports = {
       colors: {
         brightOrange: '#ea580c',
         lightOrange: '#d98c3f',
-        deepBlue: '#0369a1',
+        deepBlue: '#051421',
         seaBlue: '#38bdf8',
         teal: '#0d9488',
         hoverTeal: '#54998e',
