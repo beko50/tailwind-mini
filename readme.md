@@ -1,4 +1,4 @@
-# Landing Page for Software Developers using Taiwind CSS
+# Landing Page for Software Developers using Tailwind CSS
 
 Preview of the software developers landing page
 ![alt text](/img/test_image.jpg)
