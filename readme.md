@@ -14,5 +14,5 @@ Build the project in your CLI using...
 Run the Tailwind CLI to compile the **input.css** in development
 > npm run watch
 
-The scripts in package.json and tailwind.config.js can be edited if there are changes to be made
+The scripts in package.json and tailwind.config.js can be edited if there are changes to be made. Old packages can be reinstalled using the tailwind website.
 
